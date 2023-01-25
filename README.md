@@ -28,7 +28,7 @@
 ## move_center_moduleはmove_centerをimport するために作ったフォルダです。
 　import sys
 
-  root_path = ""
+  root_path = " "
 
   sys.path.append(root_path)
 
